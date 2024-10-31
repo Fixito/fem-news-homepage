@@ -340,7 +340,7 @@ a {
   }
 
   .nav-link {
-    font-size: var(--fs-sm);
+    font-size: 0.9375rem;
     color: var(--color-text-subtle);
 
     &:hover {
