@@ -337,11 +337,15 @@ a {
   .nav-items {
     flex-direction: row;
     gap: 2.5rem;
-    font-size: var(--fs-sm);
   }
 
-  .nav-link:hover {
-    color: var(--color-text-accent-vermillion);
+  .nav-link {
+    font-size: var(--fs-sm);
+    color: var(--color-text-subtle);
+
+    &:hover {
+      color: var(--color-text-accent-vermillion);
+    }
   }
 
   .nav-mobile {
@@ -368,6 +372,7 @@ a {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 1.75rem 1.875rem;
+    padding-block-start: 3.5rem;
   }
 
   .hero-text {
