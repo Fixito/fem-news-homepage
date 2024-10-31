@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-zx8NBSwgqR)
+- [Live Site URL](https://tr-news-homepage.netlify.app)
 
 ## My process
 
